@@ -1,0 +1,61 @@
+  {
+      "uid": null,
+      "url": null,
+      "type": "disclaimer",
+      "href": "https://tnfev2-dev.cdn.prismic.io/api/v2/documents/search?ref=ZdM-6RAAACMAuykm&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22ZEui_xEAACsAoL0m%22%29+%5D%5D",
+      "tags": [],
+      "first_publication_date": "2023-04-28T10:42:19+0000",
+      "last_publication_date": "2024-01-09T13:36:43+0000",
+      "slugs": [
+        "disclaimer"
+      ],
+      "linked_documents": [],
+      "lang": "en-za",
+      "alternate_languages": [
+        {
+          "id": "Y7K15xEAACYANPU5",
+          "type": "disclaimer",
+          "lang": "en-au"
+        },
+        {
+          "id": "Y5MGgBEAACEAPpG6",
+          "type": "disclaimer",
+          "lang": "en-bs"
+        },
+        {
+          "id": "Y7K19REAACgANPVT",
+          "type": "disclaimer",
+          "lang": "en-gb"
+        },
+        {
+          "id": "ZEui_xEAACsAoL0m",
+          "type": "languages",
+          "lang": "en-sc"
+        }
+      ],
+      "data": {
+        "desktop_font_size": "Small - 12px (default)",
+        "mobile_font_size": "Small - 9px (default)",
+        "dismissable": false,
+        "risk_percentage": null,
+        "disclaimer_text": [
+          {
+            "type": "paragraph",
+            "text": "Contract for differences are complex financial instruments that requires knowledge and understating as it involves a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.",
+            "spans": []
+          }
+        ],
+        "short_disclaimer_text": [
+          {
+            "type": "paragraph",
+            "text": "",
+            "spans": []
+          }
+        ],
+        "banner_position": true,
+        "background_colour": "#050f19",
+        "font_colour": "#ffffff",
+        "save_preference": false
+      }
+    }
+    
